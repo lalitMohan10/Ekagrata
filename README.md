@@ -49,6 +49,6 @@ increasing. So we came up with this idea.
 ## Author
 
 * **Hemant Singh Manral** - [Github](https://github.com/manralhemant10)
-* **Lalit Mohan Reddy** - [Github]()
+* **Lalit Mohan Reddy** - [Github](https://github.com/lalitMohan10)
 
 
